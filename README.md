@@ -315,9 +315,3 @@ Contributions are welcome! Please follow these steps:
 2. Create a new branch
 3. Make your changes
 4. Submit a pull request
-
-## License
-
-MIT License
-
-Copyright (c) 2025 Venkatesan M
